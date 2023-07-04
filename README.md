@@ -1,18 +1,7 @@
-## Getting Started
+## Desafio Banco Digital DIO.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Desafio de projeto em Java, realizado no bootcamp Formação Java Developer da DIO, baseado em um banco digital para explorar os pilares da orientação a objetos.
 
-## Folder Structure
+## 🛠️ Tecnologias
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- JAVA
